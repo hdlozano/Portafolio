@@ -1,0 +1,7 @@
+{
+  "name": "Portafolio de Evidencias - Análisis Inferencial Boston Housing | UNIMINUTO",
+  "description": "Portafolio digital académico tipo Google Sites con análisis inferencial del Boston Housing Dataset, validación de supuestos estadísticos, visualizaciones interactivas y Google Colab ejecutable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
